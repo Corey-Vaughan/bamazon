@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like store front node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corey-Vaughan/bamazon.git"
+  },
+  "author": "Corey Vaughan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corey-Vaughan/bamazon/issues"
+  },
+  "homepage": "https://github.com/Corey-Vaughan/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
