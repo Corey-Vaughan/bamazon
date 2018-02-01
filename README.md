@@ -4,6 +4,7 @@ An Amazon-like storefront with the MySQL skills learned this week. The app will 
 # **Dev Notes**
 
 **In Progress**
+
 Manager.js in progress.
 
 Need to fix Add new product to database
