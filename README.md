@@ -5,9 +5,9 @@ An Amazon-like storefront with the MySQL skills learned this week. The app will 
 
 **In Progress**
 
-Manager.js in progress.
+Fix add product in manager.js (DONE!)
 
-Need to fix Add new product to database
+Update ReadMe with manager.js images(In Progress)
 
 
 # **Customer App Walkthrough**

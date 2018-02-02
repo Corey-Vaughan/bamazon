@@ -163,7 +163,7 @@ function newProductInfo() {
 
 function addNewProduct(name, dept, price, quantity) {
 	//Insert into database
-	connection.query('INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES(" name + ", " + dept + ", " + price + ", " + quantity ")');
+	connection.query("INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES (?, ?, ?, ?)", [name, dept, price, quantity]);
 	//Display table of products to show new product
 	displayProducts();
 }
