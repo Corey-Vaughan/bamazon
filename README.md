@@ -5,7 +5,7 @@ An Amazon-like storefront with the MySQL skills learned this week. The app will 
 
 **In Progress**
 
-Fix add product in manager.js (DONE!)
+~~Fix add product in manager.js~~ (DONE! 2/1/18)
 
 Update ReadMe with manager.js images(In Progress)
 
